@@ -1,0 +1,5 @@
+*.user
+*.suo
+ProcessReplacement/bin
+ProcessReplacement/obj
+ProcessReplacement/*.user
